@@ -1,0 +1,37 @@
+.card_athor{
+  font-size: 20px;
+  color: blueviolet;
+  font-weight: bold;
+  margin-Bottom: "10px";
+}
+.post{
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: "5px";
+  padding: "10px";
+  margin-bottom: "10px";
+}
+
+.post_title{
+  font-size: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.post_body{
+  font-size: 14px;
+  color: #1a1515;
+}
+.card{
+  display: flex;
+  gap: 50px;
+  flex-wrap: wrap;
+}
+.post{
+  width:300px;
+}
+.title{
+  margin-left: 50px;
+  font-size: 40px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
